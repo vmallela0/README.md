@@ -25,6 +25,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 ## About me
-I'm a senior at Northview High School in Johns Creek, GA and an aspiring computer scientist. I 'm a research intern at [MIT CSAIL](https://csail.mit.edu) and the [Stanford University Electrical Engineering Department](https://ee.stanford.edu). I serve as the chairman of the [Fulton County Youth Commission](https://www.fultoncountyga.gov/services/youth/youth-commission), vice president of the Northview Programming club and as a member of the programming team on the [Northview Robotics team (FRC 1683)](https://www.technotitans.org/). In my free time I enjoy swimming, watching TV and working on interesting CS projects :)
+Read about me [here](https://www.vmallela.com/about)
 
 Check out my [website](https://www.vmallela.com) and [blog](https://blog.vmallela.com) 💻
