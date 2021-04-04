@@ -25,6 +25,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 ## About me
-Read about me [here](https://www.vmallela.com/about)
+Read about me [here](https://people.csail.mit.edu/vmallela/#about)
 
-Check out my [website](https://www.vmallela.com) and [blog](https://blog.vmallela.com) 💻
+Check out my [website](https://people.csail.mit.edu/vmallela/) and [blog](https://blog.vmallela.com) 💻
