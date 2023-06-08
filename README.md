@@ -29,4 +29,4 @@ I am currently a SWE Intern @ 2MNEXT and a student researcher @ gatech college o
 
 Read about me [here](https://people.csail.mit.edu/vmallela/#about)
 
-Check out my [website](https://people.csail.mit.edu/vmallela/) and [blog](https://vmallela.com/blog) 💻
+Check out my [website](https://people.csail.mit.edu/vmallela/)
