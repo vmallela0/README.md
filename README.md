@@ -27,6 +27,4 @@
 ## About me
 I am currently a SWE Intern @ 2MNEXT and a student researcher @ gatech college of computing 
 
-Read about me [here](https://people.csail.mit.edu/vmallela/#about)
-
 Check out my [website](https://people.csail.mit.edu/vmallela/)
