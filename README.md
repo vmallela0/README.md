@@ -25,6 +25,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vmallela-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedu-mallela-a9aaa5162/)
 
 ## About me
-Student Researcher @ GaTech College of Computing 
+Student Researcher @ Georgia Tech College of Computing 
 
 Check out my [website](https://people.csail.mit.edu/vmallela/)
