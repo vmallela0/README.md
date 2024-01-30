@@ -37,4 +37,4 @@ I'm a third year computer science major at georgia tech, specializing in artific
 In addition to school, I'm active in research at the georgia tech [center for research in novel computing heirarchies](https://crnch.gatech.edu) and at the [automated algorithm design project](https://www.vip.gatech.edu/teams/vvk). In the Summer, I am planning on interning with the big data platform team @ TikTok
 
 
-Check out my website at [https://people.csail.mit.edu/vmallela/](https://people.csail.mit.edu/vmallela/)
+Check out my website at [vmallela.com](https://vmallela.com)
