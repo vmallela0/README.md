@@ -34,6 +34,7 @@
 I'm a third year computer science major at georgia tech, specializing in artificial intelligence and computer graphics. 
 
 Incoming @ TikTok Summer 2024 on the data engineering/data platform team
+Previously, I've spent time researching @ Stanford EE, MIT CSAIL, Harvard VCG and CMU HCII
 
 
 In addition to school, I'm active in research at the georgia tech [center for research in novel computing heirarchies](https://crnch.gatech.edu) and at the [automated algorithm design project](https://www.vip.gatech.edu/teams/vvk). In the Summer, I am planning on interning with the big data platform team @ TikTok
