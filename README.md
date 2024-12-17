@@ -31,9 +31,9 @@
 
 ## About me
 
-I'm a third year computer science major at georgia tech, specializing in artificial intelligence and computer graphics. 
+I'm a recent computer science graduate from georgia tech, specializing in artificial intelligence and computer graphics. 
 
-Incoming @ TikTok Summer 2024 on the data engineering/data platform team
+Incoming @ TikTok 2025 on the data engineering/data platform team
 
 Previously, I've spent time researching @ Stanford EE, MIT CSAIL, Harvard VCG and CMU HCII
 
