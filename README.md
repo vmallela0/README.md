@@ -33,12 +33,12 @@
 
 I'm a recent computer science graduate from georgia tech, specializing in artificial intelligence and computer graphics. 
 
-Incoming @ TikTok 2025 on the data engineering/data platform team
+Incoming @ TikTok 2025 on the data platform team
 
 Previously, I've spent time researching @ Stanford EE, MIT CSAIL, Harvard VCG and CMU HCII
 
 
-In addition to school, I'm active in research at the georgia tech [center for research in novel computing heirarchies](https://crnch.gatech.edu) and at the [automated algorithm design project](https://www.vip.gatech.edu/teams/vvk). In the Summer, I am planning on interning with the big data platform team @ TikTok
+In addition to school, I'm active in research at the georgia tech [center for research in novel computing heirarchies](https://crnch.gatech.edu) and at the [automated algorithm design project](https://www.vip.gatech.edu/teams/vvk).
 
 
 Check out my website at [vmallela.com](https://vmallela.com)
