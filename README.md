@@ -33,7 +33,7 @@
 
 I'm a recent computer science graduate from georgia tech, specializing in artificial intelligence and computer graphics. 
 
-Incoming @ TikTok 2025 on the data platform team
+I work as a software engineer on the Data Platform Team @TikTok. 
 
 Previously, I've spent time researching @ Stanford EE, MIT CSAIL, Harvard VCG and CMU HCII
 
